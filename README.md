@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm a student learning Computer Science at **Swinburne University of Technology**. I have a passion for data science, data analyst, and also artificial intelligence. This place is where I save and develop my projects to practice coding. 
+I'm a student learning Computer Science at **Swinburne University of Technology**. I have a passion for data science, data analysis, and also artificial intelligence. This place is where I save and develop my projects to practice coding. 
 
 ---
 
@@ -40,20 +40,6 @@ I'm a student learning Computer Science at **Swinburne University of Technology*
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hnam26&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnam26&theme=transparent&layout=compact&langs_count=8&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnam26&theme=transparent&layout=compact&langs_count=8&card_width=280" />
 </a>
 
-<!--
-**khangvo3103/khangvo3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
